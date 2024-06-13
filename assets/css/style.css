@@ -6546,6 +6546,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   }
   .intro-about .intro-content-text .exper .numb-ex > span {
     font-size: 80px;
+    width: 100%;
   }
   .intro-about .intro-content-text .exper h4 {
     margin-top: 20px;
