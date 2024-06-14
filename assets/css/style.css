@@ -6546,7 +6546,6 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   }
   .intro-about .intro-content-text .exper .numb-ex > span {
     font-size: 80px;
-    width: 100%;
   }
   .intro-about .intro-content-text .exper h4 {
     margin-top: 20px;
@@ -12563,18 +12562,4 @@ footer .copyright-social ul li:last-child {
   color: #000;
 }
 
- /* New css */
- .dsn-slider .footer-slid .control-nav{
-  display: none !important;
-}
-.title-text-header-inner-1 a{
-  font-size: 62px;
-  padding-right: 50px;
-}
-@media(max-width: 768px){
-  .title-text-header-inner-1 a{
-    font-size: 30px;
-    padding-right: 15px;
-  }
-}
 /*# sourceMappingURL=style.css.map */
