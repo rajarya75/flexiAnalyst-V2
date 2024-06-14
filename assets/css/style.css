@@ -3240,7 +3240,7 @@ body.hamburger-menu .header-top {
 }
 
 .header-top .header-container {
-  position: absolute;
+  position: fixed;
   width: 100%;
   max-width: 2560px;
   padding: 22px 50px;
@@ -6476,6 +6476,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .intro-about .intro-content-text .exper h4 {
   font-size: 18px;
   margin-top: 40px;
+  display: inline-block;
 }
 
 .intro-about .img-box {
@@ -6545,10 +6546,10 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
     font-size: 32px;
   }
   .intro-about .intro-content-text .exper .numb-ex > span {
-    font-size: 80px;
+    font-size: 60px;
   }
   .intro-about .intro-content-text .exper h4 {
-    margin-top: 20px;
+    margin-top: 0px;
   }
   .intro-about .background-mask {
     background-color: transparent;
